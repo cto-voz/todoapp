@@ -13,8 +13,8 @@
       >
         <v-avatar size="70" class="mb-2">
           <img
-              src="avatar.jpg"
-              alt="Alex Nguyen"
+              src="avatar2.jpg"
+              alt="Laptrinhviengiatuoi"
           >
         </v-avatar>
         <div class="white--text text-subtitle-1 font-weight-bold">
