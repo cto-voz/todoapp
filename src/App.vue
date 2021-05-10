@@ -7,21 +7,21 @@
     >
       <v-img
           class="pa-4 pt-7"
-          src="hinhnen3.jpg"
+          src="mountains.jpg"
           height="170"
           gradient="to top right, rgba(19,84,122,.5), rgba(128,208,199,.8)"
       >
         <v-avatar size="70" class="mb-2">
           <img
               src="avatar.jpg"
-              alt="Linh Nguyen"
+              alt="Alex Nguyen"
           >
         </v-avatar>
         <div class="white--text text-subtitle-1 font-weight-bold">
-          Linh Nguyen
+          Lập trình viên
         </div>
         <div class="white--text text-subtitle-2">
-          Nglinh
+          già tuổi
         </div>
       </v-img>
 
@@ -50,7 +50,7 @@
         app
         color="primary"
         dark
-        src="hinhnen3.jpg"
+        src="mountains.jpg"
         prominent
         :height="$route.path === '/' ? '238' : '170'"
     >
